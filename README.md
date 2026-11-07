@@ -62,7 +62,6 @@ The following roles have had the following changes made to them:
 - Slayer: Adjusted ability wording.
 - Slayer: Fixed a bug where a Lying Slayer could try to use his ability on a dead character.
 - Witness: No longer sees Lycanthrope transforming as affected by Evil.
-
 - Bombardier: Fixed a bug where an Evil Bombardier would still kill you for Executing them.
 - Doppelganger: Added customisation option to Disguise as an Outcast.
 - Doppelganger: Adjusted ability wording.
@@ -76,7 +75,6 @@ The following roles have had the following changes made to them:
 - Plague Doctor: When Lying, will no longer point to itself or the same character twice.
 - Wretch: Adjusted ability wording.
 - Wretch: Rewrote Hint.
-
 - All Evil characters: Adjusted Disguise logic.
 - Chancellor: Removed incorrect hint.
 - Minion: Added config option to only Disguise as not-in-play characters.
@@ -94,7 +92,6 @@ The following roles have had the following changes made to them:
 - Werewolf: Adjusted hint wording.
 - Witch: Adjusted ability wording.
 - Witch: Migrated hint and ability into one.
-
 - All Demons: Added config options to customise their villages.
 - All Demons: Added config option to Disguise as Outcasts sometimes.
 - Baa: Added config option to control how many Outcasts are hidden from the Deck, if any.
