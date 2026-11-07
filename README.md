@@ -5,7 +5,7 @@ A mod for Demon Bluff that makes some hefty changes to the puzzle-solving aspect
 - It is highly recommended to use my Keyword Expansion mod (https://github.com/Wingidon/Keyword-Expansion) alongside this mod, but it's not required.
 - The only known incompatibility this mod has is with Skill Cycler's Riddles mod (https://github.com/skillcycler/Riddles). If these two mods are installed at the same time, the Hypnotist and Captivator from Riddles may not work correctly when Disguised as vanilla roles.
 
-### Changes
+## Changes
 - Alchemist: Fixed a bug where multiple Alchemists wouldn't pick up on the same Corruption.
 - Alchemist: Fixed a bug where Puppet Alchemist would Lie.
 - Alchemist: Fixed a bug where Lying Alchemists would tell the truth if there were Corruptions nearby that had been cured.
