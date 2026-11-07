@@ -5,7 +5,13 @@ A mod for Demon Bluff that makes some hefty changes to the puzzle-solving aspect
 - It is highly recommended to use my Keyword Expansion mod (https://github.com/Wingidon/Keyword-Expansion) alongside this mod, but it's not required.
 - The only known incompatibility this mod has is with Skill Cycler's Riddles mod (https://github.com/skillcycler/Riddles). If these two mods are installed at the same time, the Hypnotist and Captivator from Riddles may not work correctly when Disguised as vanilla roles.
 
+## Credits
+- Uzabi, Normandia and the rest of Demon Bluff's development team, for making this awesome game.
+- Skill Cycler, for providing the permanent night cycle code and helping me with some other minor things in the project.
+- Rsvdark, for playtesting the mod before release and finding a few issues that I didn't catch myself.
+
 ## Changes
+The following roles have had the following changes made to them:
 - Alchemist: Fixed a bug where multiple Alchemists wouldn't pick up on the same Corruption.
 - Alchemist: Fixed a bug where Puppet Alchemist would Lie.
 - Alchemist: Fixed a bug where Lying Alchemists would tell the truth if there were Corruptions nearby that had been cured.
@@ -103,7 +109,7 @@ A mod for Demon Bluff that makes some hefty changes to the puzzle-solving aspect
 - Pooka: Added config option to extend her range to the closest Villager on each side of her, instead of just adjacent Villagers.
 
 
-Other:
+Other changes include:
 - Adjusted info wording on many different roles.
 - Probably some other miscellaneous bug fixes as well.
 - Night Cycle is now always active thanks to code by Skill Cycler.
