@@ -117,6 +117,21 @@ public class w_dBaaRevamped : w_zRoleBase
         }
 
 
+
+        // Lycan/Puppeteer fix
+        Il2CppSystem.Collections.Generic.List<CharacterData> scriptChars = Gameplay.Instance.GetScriptCharacters();
+        foreach (CharacterData character in scriptChars)
+        {
+            if (character.bundledCharacters.Count != 0)
+            {
+                foreach (CharacterData bundledChar in character.bundledCharacters)
+                {
+                    Gameplay.Instance.AddScriptCharacterIfAble(bundledChar.type, bundledChar);
+                }
+            }
+        }
+
+
         // Handle hidden Outcasts
         if (hideAllOutcasts)
         {

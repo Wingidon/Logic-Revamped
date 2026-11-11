@@ -38,7 +38,7 @@ public class w_vMediumRevamp : w_zRoleBase
         bluffingChars.Remove(charRef);
         if (bluffingChars.Count == 0) return new ActedInfo("Something does not make sense");
         selection.Add(bluffingChars[UnityEngine.Random.RandomRangeInt(0, bluffingChars.Count)]);
-        string info = ConjureInfo(selection[0], selection[0].GetCharacterBluffIfAble());
+        string info = ConjureInfo(selection[0], sharedScripts.GetFaceUpClaim(selection[0]));
         return new ActedInfo(info, selection);
     }
 

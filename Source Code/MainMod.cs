@@ -20,7 +20,7 @@ using static MelonLoader.Modules.MelonModule;
 using LogicRevampedMod;
 using Il2CppInterop.Runtime.Runtime;
 
-[assembly: MelonInfo(typeof(MainMod), "Logic Revamped", "1.0.0", "Wingidon")]
+[assembly: MelonInfo(typeof(MainMod), "Logic Revamped", "1.0.1", "Wingidon")]
 [assembly: MelonGame("UmiArt", "Demon Bluff")]
 
 namespace LogicRevampedMod;
