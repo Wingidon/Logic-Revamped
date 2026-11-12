@@ -120,7 +120,6 @@ Config clarification: Each Demon in this mod has a respective 'exotic village co
 - Villagers make up less than 40% of the village.
 - Outcasts make up more than 35% of the village.
 - Minions make up more than 40% of the village.
-- Evils make up half or more than 50% of the village.
 - The Outcast count is 2 or more higher than the Minion count.
 - There is only 1 Evil in a village with 8 or more characters.
 - The difference between the Outcast and Minion count is higher than 2.
