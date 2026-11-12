@@ -113,6 +113,7 @@ Other changes include:
 - Night Cycle is now always active thanks to code by Skill Cycler.
 
 
+## Other
 Config clarification: Each Demon in this mod has a respective 'exotic village compositions' toggle. A village is considered "exotic" if any of the following apply:
 - The Outcast count is equal to or greater than the Villager count.
 - The Evil count is equal to or greater than the Villager count.
